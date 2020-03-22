@@ -1,0 +1,43 @@
+.titill {
+    color: #E7C8FF;
+    font-size: 60px;
+}
+.mybutton {
+    background: red;
+    font-size: 0.75em;
+}
+img {
+    width: 100%;
+}
+
+.shyButtonmybutton{
+    background-color: red;
+
+}
+body {
+    background-image: url(https://www.jakpost.travel/wimages/large/14-147064_hd-money-wallpaper-photo-mlg-illuminati-background.jpg);
+    background-size: cover;
+}
+.nest {
+    text-align: center;
+    
+}
+.nest h1 {
+    color: rgb(189, 47, 255);
+}
+
+.card {
+    background-color: #E7C8FF;
+}
+
+@media only screen and (max-width: 1000px) {
+    .andskotin{
+        width:50%;
+    }
+    
+}
+@media only screen and (max-width: 600px) {
+    .andskotin{
+        width:100%;
+    }
+}
