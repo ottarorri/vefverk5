@@ -1,5 +1,5 @@
 .titill {
-    color: #E7C8FF;
+    color: red;
     font-size: 60px;
 }
 .mybutton {
@@ -15,7 +15,7 @@ img {
 
 }
 body {
-    background-image: url(https://www.jakpost.travel/wimages/large/14-147064_hd-money-wallpaper-photo-mlg-illuminati-background.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQloJN8-ForBFfaMFOYygWx2AV3ux1slekBg2qmf99Pb8A0moXM);
     background-size: cover;
 }
 .nest {
@@ -27,7 +27,7 @@ body {
 }
 
 .card {
-    background-color: #E7C8FF;
+    background-color: orange;
 }
 
 @media only screen and (max-width: 1000px) {
